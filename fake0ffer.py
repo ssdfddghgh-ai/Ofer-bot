@@ -26,7 +26,7 @@ BOT_USERNAME = "Ksjdjdksjdhdhdbot"
 OWNER_ID = 8964812547
 
 # АДМИНИСТРАТОРЫ
-ADMIN_IDS = [9039993915]
+ADMIN_IDS = [8915457510]
 
 # Все, у кого есть доступ
 ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + [9186998396]
