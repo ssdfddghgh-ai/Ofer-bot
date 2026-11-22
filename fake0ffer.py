@@ -20,7 +20,7 @@ from aiogram.methods import DeleteBusinessMessages
 
 # ================= НАСТРОЙКИ =================
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-BOT_USERNAME = "Gosjdhidksndhdudkdjbot"
+BOT_USERNAME = "Ksjdjdksjdhdhdbot"
 
 # ВЛАДЕЛЕЦ
 OWNER_ID = 8964812547
