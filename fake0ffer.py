@@ -29,7 +29,7 @@ OWNER_ID = 8964812547
 ADMIN_IDS = []
 
 # Все, у кого есть доступ
-ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS
+ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + [9039993915]
 # =============================================
 
 logging.basicConfig(level=logging.INFO)
