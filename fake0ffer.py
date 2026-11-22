@@ -23,13 +23,13 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 BOT_USERNAME = "Ksjdjdksjdhdhdbot"
 
 # ВЛАДЕЛЕЦ
-OWNER_ID = 8964812547
+OWNER_ID = 6662412851
 
 # АДМИНИСТРАТОРЫ
-ADMIN_IDS = [6662412851]
+ADMIN_IDS = []
 
 # Все, у кого есть доступ
-ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + [8915457510]
+ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + []
 
 # =============================================
 
