@@ -26,10 +26,11 @@ BOT_USERNAME = "Ksjdjdksjdhdhdbot"
 OWNER_ID = 8964812547
 
 # АДМИНИСТРАТОРЫ
-ADMIN_IDS = [8915457510]
+ADMIN_IDS = []
 
 # Все, у кого есть доступ
-ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + [9186998396]
+ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + [8915457510]
+
 # =============================================
 
 logging.basicConfig(level=logging.INFO)
