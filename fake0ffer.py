@@ -29,7 +29,7 @@ OWNER_ID = 6662412851
 ADMIN_IDS = []
 
 # Все, у кого есть доступ
-ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + []
+ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS + [6049472757]
 
 # =============================================
 
